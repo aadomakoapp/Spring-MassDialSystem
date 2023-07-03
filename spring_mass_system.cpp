@@ -5,6 +5,7 @@
 #include<iomanip>
 #include<cmath>
 using namespace std;
+
 //Decalaring function prototypes
 void ReadData(double bumpHeight[], double velocity[], int& size, long& k, long& c, double& m);
 void CarTripDisplacement(double bumpHeight[], double velocity[], double displacement[], int size, long k, long c, double m);
